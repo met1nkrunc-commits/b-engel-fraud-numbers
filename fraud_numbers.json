@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "updated_at": "2026-03-09",
+  "numbers": [
+    {
+      "number": "+905001234567",
+      "risk_level": "BLOCKED",
+      "category": "BETTING",
+      "report_count": 142,
+      "note": "Bahis dolandırıcısı"
+    },
+    {
+      "number": "+905321234567",
+      "risk_level": "HIGH",
+      "category": "PHISHING",
+      "report_count": 38,
+      "note": "e-Devlet phishing"
+    },
+    {
+      "number": "+905551234567",
+      "risk_level": "HIGH",
+      "category": "LEGAL",
+      "report_count": 25,
+      "note": "Sahte icra bürosu"
+    },
+    {
+      "number": "+905001112233",
+      "risk_level": "MEDIUM",
+      "category": "SOCIAL",
+      "report_count": 12,
+      "note": "Sahte hediye kampanyası"
+    }
+  ],
+  "keywords_version": 1,
+  "extra_keywords": {
+    "betting": [],
+    "phishing": [],
+    "legal": [],
+    "social": []
+  }
+}
