@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "version": 6,
+  "version": 7,
   "updated_at": "2026-09-27",
   "numbers": [],
   "trusted_senders": [
@@ -42,38 +42,78 @@
     "OLEY",
     "TUTTUR"
   ],
-  "keywords_version": 2,
+  "keywords_version": 3,
   "extra_keywords": {
     "betting": [
       "deneme bonusu",
+      "d3neme bonusu",
       "çevrimsiz bonus",
       "yatırımsız bonus",
+      "yatirimsiz b0nus",
       "kayıpsız bonus",
+      "ilk yatırım bonusu",
+      "kayıp bonusu",
+      "çevrim şartsız bonus",
+      "çevrim şartı yok",
       "canlı casino",
       "casino bonusu",
+      "casino üyeliği",
+      "bahis üyeliği",
       "bahis sitesi",
       "bahis hesabı",
+      "bahis hesabı aç",
+      "casino hesabı aç",
+      "bahis kuponu yap",
+      "maçlara bahis yap",
+      "slot oyunları",
       "free spin",
-      "freespin"
+      "freespin",
+      "free bet",
+      "freebet",
+      "free-spin"
     ],
     "phishing": [
       "otp kodunuzu paylaşın",
+      "doğrulama kodunuzu paylaşın",
+      "doğrulama kodunu bize iletin",
+      "tek kullanımlık şifrenizi paylaşın",
       "kart şifrenizi paylaşın",
       "şifrenizi bize gönderin",
-      "hesabınızı doğrulamak için kart bilgilerinizi girin"
+      "mobil bankacılık şifrenizi girin",
+      "kart numaranızı ve cvv kodunu girin",
+      "kart bilgilerinizi bu linkten girin",
+      "hesabınızı doğrulamak için kart bilgilerinizi girin",
+      "hesabınız bloke edildi hemen giriş yapın",
+      "kimlik doğrulama için linke tıklayın",
+      "e-devlet hesabınız askıya alındı"
     ],
     "legal": [
       "güvenli hesaba para aktarın",
       "savcılık soruşturması nedeniyle para transferi",
-      "dosyanızı kapatmak için ödeme yapın"
+      "dosyanızı kapatmak için ödeme yapın",
+      "hakkınızda icra takibi başlatıldı ödeme yapın",
+      "uzlaşma dosyanızı kapatmak için ödeme yapın",
+      "mahkeme dosyanız için son ödeme",
+      "adınıza açılan dava için ödeme yapın",
+      "haciz işlemini durdurmak için ödeme yapın"
     ],
     "social": [
       "ödülünüzü almak için ödeme yapın",
-      "devlet yardımını almak için ücret ödeyin"
+      "devlet yardımını almak için ücret ödeyin",
+      "çekiliş kazandınız vergi ödeyin",
+      "hediye kazandınız kargo ücreti ödeyin",
+      "yardım ödemesi için işlem ücreti",
+      "kargonuz teslim edilemedi linke tıklayın",
+      "paketinizi almak için gümrük ücreti ödeyin"
     ],
     "investment": [
       "garantili günlük getiri için para yatırın",
-      "risksiz kripto kazancı için transfer yapın"
+      "risksiz kripto kazancı için transfer yapın",
+      "garantili kazanç için hemen para yatırın",
+      "günlük sabit getiri için yatırım yapın",
+      "kripto hesabına para gönderin kazancını katla",
+      "vip sinyal grubuna katıl para kazan",
+      "forex robotu ile garantili getiri"
     ]
   }
 }
