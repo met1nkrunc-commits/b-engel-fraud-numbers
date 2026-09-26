@@ -1,6 +1,6 @@
-# Callshield kural listesi
+# Siper kural listesi
 
-Bu depo, Callshield iPhone uygulamasının uzaktan güncellediği doğrulanmış SMS filtre kurallarını içerir.
+Bu depo, Siper iPhone uygulamasının uzaktan güncellediği doğrulanmış SMS filtre kurallarını içerir.
 
 ## Güvenlik ilkeleri
 
