@@ -1,41 +1,79 @@
 {
-  "version": 1,
-  "updated_at": "2026-03-09",
-  "numbers": [
-    {
-      "number": "+905001234567",
-      "risk_level": "BLOCKED",
-      "category": "BETTING",
-      "report_count": 142,
-      "note": "Bahis dolandırıcısı"
-    },
-    {
-      "number": "+905321234567",
-      "risk_level": "HIGH",
-      "category": "PHISHING",
-      "report_count": 38,
-      "note": "e-Devlet phishing"
-    },
-    {
-      "number": "+905551234567",
-      "risk_level": "HIGH",
-      "category": "LEGAL",
-      "report_count": 25,
-      "note": "Sahte icra bürosu"
-    },
-    {
-      "number": "+905001112233",
-      "risk_level": "MEDIUM",
-      "category": "SOCIAL",
-      "report_count": 12,
-      "note": "Sahte hediye kampanyası"
-    }
+  "schema_version": 2,
+  "version": 6,
+  "updated_at": "2026-09-27",
+  "numbers": [],
+  "trusted_senders": [
+    "AKBANK",
+    "AKBANKSMS",
+    "GARANTI",
+    "GARANTIBBVA",
+    "ISBANK",
+    "ISBANKASI",
+    "YAPIKREDI",
+    "ZIRAAT",
+    "ZIRAATBANK",
+    "ZIRAATBANKASI",
+    "HALKBANK",
+    "VAKIFBANK",
+    "DENIZBANK",
+    "QNB",
+    "QNBFINANSBANK",
+    "FINANSBANK",
+    "HSBC",
+    "INGBANK",
+    "ODEABANK",
+    "CEPTETEB",
+    "SEKERBANK",
+    "FIBABANKA",
+    "ENPARA",
+    "EDEVLET",
+    "SGK",
+    "BTK",
+    "BDDK",
+    "GIB",
+    "PTT"
   ],
-  "keywords_version": 1,
+  "licensed_betting_senders": [
+    "IDDAA",
+    "NESINE",
+    "BILYONER",
+    "MISLI",
+    "OLEY",
+    "TUTTUR"
+  ],
+  "keywords_version": 2,
   "extra_keywords": {
-    "betting": [],
-    "phishing": [],
-    "legal": [],
-    "social": []
+    "betting": [
+      "deneme bonusu",
+      "çevrimsiz bonus",
+      "yatırımsız bonus",
+      "kayıpsız bonus",
+      "canlı casino",
+      "casino bonusu",
+      "bahis sitesi",
+      "bahis hesabı",
+      "free spin",
+      "freespin"
+    ],
+    "phishing": [
+      "otp kodunuzu paylaşın",
+      "kart şifrenizi paylaşın",
+      "şifrenizi bize gönderin",
+      "hesabınızı doğrulamak için kart bilgilerinizi girin"
+    ],
+    "legal": [
+      "güvenli hesaba para aktarın",
+      "savcılık soruşturması nedeniyle para transferi",
+      "dosyanızı kapatmak için ödeme yapın"
+    ],
+    "social": [
+      "ödülünüzü almak için ödeme yapın",
+      "devlet yardımını almak için ücret ödeyin"
+    ],
+    "investment": [
+      "garantili günlük getiri için para yatırın",
+      "risksiz kripto kazancı için transfer yapın"
+    ]
   }
 }
