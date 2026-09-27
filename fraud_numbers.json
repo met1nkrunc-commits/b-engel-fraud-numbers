@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "version": 8,
+  "version": 9,
   "updated_at": "2026-09-27",
   "numbers": [],
   "trusted_senders": [
@@ -14,6 +14,12 @@
     "ZIRAAT",
     "ZIRAATBANK",
     "ZIRAATBANKASI",
+    "ZIRAATKART",
+    "ZIRAATBANKKART",
+    "BANKKART",
+    "ZIRAATMOBIL",
+    "ZIRAATKATILIM",
+    "ZIRAATYATIRIM",
     "HALKBANK",
     "VAKIFBANK",
     "DENIZBANK",
