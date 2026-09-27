@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "version": 10,
+  "version": 11,
   "updated_at": "2026-09-27",
   "trusted_senders": [
     "AKBANK",
@@ -121,5 +121,6 @@
       "vip sinyal grubuna katıl para kazan",
       "forex robotu ile garantili getiri"
     ]
-  }
+  },
+  "signature": "GuYNrQ+oOH13nW+a/zzC5TSA1kik+62yHu5vhnVeRdeAlwgwilNsz+kpezLJkuc5S2f5WVKFaQf4uHN3nJKEDA=="
 }
