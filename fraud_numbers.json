@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 11,
-  "updated_at": "2026-09-27",
+  "version": 12,
+  "updated_at": "2026-10-02",
   "trusted_senders": [
     "AKBANK",
     "AKBANKSMS",
@@ -38,7 +38,17 @@
     "BDDK",
     "GIB",
     "PTT",
-    "GRATIS"
+    "GRATIS",
+    "TOMBANK",
+    "TOM BANK",
+    "TURKTELEKOM",
+    "TURK TELEKOM",
+    "TTMOBIL",
+    "TT MOBIL",
+    "TTNET",
+    "HESAPKURDU",
+    "HESAP KURDU",
+    "HESAPKURDU.COM"
   ],
   "licensed_betting_senders": [
     "IDDAA",
@@ -76,7 +86,11 @@
       "freespin",
       "free bet",
       "freebet",
-      "free-spin"
+      "free-spin",
+      "casibom",
+      "milanbahis",
+      "milan bahis",
+      "casibomxmilan"
     ],
     "phishing": [
       "otp kodunuzu paylaşın",
@@ -122,5 +136,5 @@
       "forex robotu ile garantili getiri"
     ]
   },
-  "signature": "GuYNrQ+oOH13nW+a/zzC5TSA1kik+62yHu5vhnVeRdeAlwgwilNsz+kpezLJkuc5S2f5WVKFaQf4uHN3nJKEDA=="
+  "signature": "rqZit2rIYNhVclpx2cmxPqjyyWJajcrO1w5D87a7vtryS9XHHklkLUNQ/R8X4wQNS/obUBFjwrIuKjfV4sifBA=="
 }
